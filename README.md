@@ -1,2 +1,2 @@
 # python-demos
-python常用代码
+python常用代码demo
